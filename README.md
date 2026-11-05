@@ -130,3 +130,4 @@ Kjo krijon kopje konsistente te `data/backups`. Për rikthim ndalo serverin dhe 
 
 Channel Manager është simulator dhe kontratë adapter-i, jo lidhje aktive me kanalet. Ende duhen integrimet dhe miratimet reale. Ky version përdor një dhomë fizike për rezervim dhe një çmim bazë për natë. Nuk përfshin plane sezonale, fiskalizim, lidhje bankare, llogaritje automatike taksash, rimbursim automatik, shumë dhoma në një rezervim ose MFA. Menaxhimi i shumë organizatave për një përdorues nuk ka ende zgjedhës në hyrje. Testimi Linux nuk provon automatikisht çdo konfigurim Windows. Përpara shitjes duhen pilot, testim ngarkese, rishikim sigurie dhe integrime në sandbox me llogaritë e tua.
 # Helion
+# Helion
