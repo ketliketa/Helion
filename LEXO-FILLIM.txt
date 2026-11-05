@@ -1,0 +1,13 @@
+HOTELFLOW PMS 0.2.1 - WINDOWS
+
+Nxirre ZIP-in ne nje DOSJE TE RE jashte OneDrive.
+Mos e bashko me dosjen e vjeter. Mos kopjo node_modules ose .env te vjeter.
+Ndalo serveret e vjeter me Ctrl+C.
+Hap NIS-HOTELFLOW.cmd (Node.js 24+ dhe internet per instalimin e pare).
+Hap http://localhost:5173 dhe kliko Provo me te dhena shembull.
+Databaza krijohet automatikisht. Nuk nevojitet corepack ose migrim manual.
+
+Perfshin funksionet e versionit 0.2. Rregullon origjinen lokale dhe shton nisesin Windows.
+Stripe, Resend dhe abonimet kerkojne celesat e ofruesve tuaj.
+Channel Manager ka simulator, lidhjet reale vijne me vone.
+Ruaj databazen e vjeter ne dosjen origjinale. Versioni 0.1 nuk migrohet automatikisht.
